@@ -5,6 +5,7 @@ The rules of the game:
     - The other person rolls from the number that person 1 got and the first person rolls again from the number this guy got
     - This go on until one of them reaches 1
     - The first to roll 1 loses
+
 This app will be operated by writing "'/roll " + the number that you want to bet times 10 (ex: "/roll 100")
 If you do not write it like this, it will be considered as an invalid input
 You start up with 10 gold each time you play a game
